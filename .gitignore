@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Gradio
+.gradio/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
