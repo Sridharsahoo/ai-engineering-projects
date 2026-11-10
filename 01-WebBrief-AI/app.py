@@ -1,6 +1,6 @@
 # pip install gradio
 import gradio as gr
-from summarizer import summarize
+from summarizer_langchain import summarize
 
 gr.Interface(
     fn=summarize,                                  # your function
